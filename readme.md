@@ -96,7 +96,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [WinSCP](https://winscp.net/eng/docs/webdav) - Popular SFTP client that also supports WebDAV (for Windows).
 - [davfs2](https://savannah.nongnu.org/projects/davfs2) - Allows mounting a WebDAV server as a local filesystem (for Linux).
 - [CrossFTP](https://www.crossftp.com/) - Free client software that supports many protocols, including WebDAV (for Windows, Mac and Linux).
-- [FileZilla Pro](https://filezillapro.com/) - Paid version of the popular FTP client includes WebDAV support (for Windows, Mac and Linux).
+- [cadaver](https://notroj.github.io/cadaver/) - Command-line WebDAV client, with support for file upload, download, on-screen display, in-place editing, etc.
 
 <a name="desktop-other-apps" />
 
@@ -114,6 +114,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
 - [floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
+- [RetroArch](https://retroarch.com) - A frontend for emulators and game engines that can use WebDAV for backing up game saves.
 - [Stylus](https://add0n.com/stylus.html) - Browser extension for custom css that can sync with WebDAV.
 - [Violentmonkey](https://violentmonkey.github.io/) - A web browser extension for UserJS management that can sync with WebDAV.
 
@@ -131,6 +132,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that has a WebDAV plugin.
 - [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts.
 - [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - File manager that supports WebDAV.
+- [DAVx5](https://www.davx5.com/) - WebDAV, CalDAV and CardDAV client for Android.
 
 <a name="android-other-apps" />
 
@@ -205,6 +207,7 @@ _Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 - [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Fully supports WebDAV and allows synchronization over it.
 - [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Fully supports WebDAV and allows synchronization over it.
 - [Yandex.Disk](https://yandex.com/dev/disk/webdav/) - Has a WebDAV API that treats its storage like a file system.
+- [KPN Cloud](https://community.kpn.com/kennisbank-e-mail-135/kpn-cloud-wat-is-het-en-hoe-werkt-het-564007#KPN+Cloud+benaderen+via+WebDAV) - Every KPN customer gets 10GB cloud storage with WebDAV support.
 - [~Box~](https://support.box.com/hc/en-us/articles/360043696414-WebDAV-with-Box) - Has a WebDAV URL that allows access via WebDAV (no longer supported).
 
 ## Extensions
@@ -213,7 +216,7 @@ _Protocol extensions and related protocols_
 
 - [CalDAV](https://en.wikipedia.org/wiki/CalDAV)
 - [CardDAV](https://en.wikipedia.org/wiki/CardDAV)
-- [GroupDAV](https://en.wikipedia.org/wiki/GroupDAV)
+- [GroupDAV](https://web.archive.org/web/20221224121500/https://en.wikipedia.org/wiki/GroupDAV)
 - [Microsoft Extensions](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-wdvme/8cafdf55-ee5c-443e-bdb7-2cb2ab1fb2c3)
 
 ## Contributing
