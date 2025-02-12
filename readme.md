@@ -131,6 +131,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [Total Commander](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander) - File manager that has a WebDAV plugin.
 - [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts.
 - [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - File manager that supports WebDAV.
+- [DAVx5](https://www.davx5.com/) - WebDAV, CalDAV and CardDAV client for Android.
 
 <a name="android-other-apps" />
 
@@ -205,6 +206,7 @@ _Cloud services that offer a WebDAV server or otherwise allow access via WebDAV_
 - [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Fully supports WebDAV and allows synchronization over it.
 - [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Fully supports WebDAV and allows synchronization over it.
 - [Yandex.Disk](https://yandex.com/dev/disk/webdav/) - Has a WebDAV API that treats its storage like a file system.
+- [KPN Cloud](https://community.kpn.com/kennisbank-e-mail-135/kpn-cloud-wat-is-het-en-hoe-werkt-het-564007#KPN+Cloud+benaderen+via+WebDAV) - Every KPN customer gets 10GB cloud storage with WebDAV support.
 - [~Box~](https://support.box.com/hc/en-us/articles/360043696414-WebDAV-with-Box) - Has a WebDAV URL that allows access via WebDAV (no longer supported).
 
 ## Extensions
